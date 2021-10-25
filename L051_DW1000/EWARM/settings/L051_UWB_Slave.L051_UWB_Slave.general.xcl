@@ -1,0 +1,15 @@
+"D:\software\EWARM\arm\bin\armproc.dll" 
+
+"D:\software\EWARM\arm\bin\armJET.dll" 
+
+"F:\stm32\L051_UWB_Slave\EWARM\L051_UWB_Slave\Exe\L051_UWB_Slave.out" 
+
+--plugin="D:\software\EWARM\arm\bin\armbat.dll" 
+
+--device_macro="D:\software\EWARM\arm\config\debugger\ST\STM32L0xx.dmac" 
+
+--flash_loader="D:\software\EWARM\arm\config\flashloader\ST\FlashSTM32L0xxx8.board" 
+
+
+
+
